@@ -5,12 +5,4 @@ shows the name or alias used
 to call the remote to fetch from and push
 to. 
 
-Some more changes.
-
-Another change made to commit
-
-One change.
-
-We are marching into destiny
-
-To see the sunset.
+Editing lyrics one more time.
